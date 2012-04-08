@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BackgroundMusics</key>
+	<array>
+		<string>level_bg.wav</string>
+	</array>
+	<key>SoundEffects</key>
+	<array>
+		<string>carrot_0.mp3</string>
+		<string>carrot_1.wav</string>
+		<string>carrot_2.wav</string>
+		<string>cage_open.wav</string>
+		<string>cage_close.wav</string>
+		<string>bucket.wav</string>
+		<string>pipe.mp3</string>
+		<string>floater.wav</string>
+	</array>
+</dict>
+</plist>
